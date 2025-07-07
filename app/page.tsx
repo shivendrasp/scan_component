@@ -1,6 +1,6 @@
 import ScanEffect from "./components/scan_effect";
 
-let Page = () => {
+const Page = () => {
   return (
     <ScanEffect />
   )
